@@ -1,11 +1,17 @@
 # Hi there! 👋 I'm Etienne V. Banquil
 
-I am passionate about coding and skilled in database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program.
+I am passionate about coding and skilled in database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program.
 
 ## Education
+- **Junior High School**
+  - Quezon City Academy
+  - 2016-2020
+- **Senior High School**
+  - Quezon City Academy
+  - 2020-2022
 - **BS Computer Science**
   - New Era University
-  - 2021-Present
+  - 2022-Present
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0EB6E0776BE20FA5952CB929CAEEA6DE34297CA77F320C5022D19203DCF0E73)
@@ -22,7 +28,7 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 - **Email:** Evbanquil@gmail.com
 - **Cell #:** 09668054510
 
-Feel free to connect with me to discuss anything tech-related or just to say hi!
+Feel free to contac me to discuss anything tech-related or just to say hi!
 
 [certification_link1]: #your_certification_link1
 [certification_link2]: #your_certification_link2
