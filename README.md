@@ -28,7 +28,7 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 - **Email:** Evbanquil@gmail.com
 - **Cell #:** 09668054510
 
-Feel free to contac me to discuss anything tech-related or just to say hi!
+Feel free to contact me to discuss anything tech-related or just to say hi!
 
 [certification_link1]: #your_certification_link1
 [certification_link2]: #your_certification_link2
