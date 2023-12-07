@@ -22,7 +22,7 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 ## Skill Sets
 - **Programming:** Java, SQL
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VSC
 
 ## Contact Me
 - **Email:** Evbanquil@gmail.com
