@@ -35,3 +35,8 @@ Feel free to contact me to discuss anything tech-related or just to say hi!
 [certification_link3]: #your_certification_link3
 [certification_link4]: #your_certification_link4
 [linkedin_profile_link]: #your_linkedin_profile_link
+
+https://app.powerbi.com/reportEmbed?reportId=6443d0d9-890f-4833-bccd-c38d72704b0a&autoAuth=true&ctid=1f982a31-2757-47db-99bd-779e54f6229f
+
+
+
