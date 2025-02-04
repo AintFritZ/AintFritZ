@@ -29,13 +29,3 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 - **Cell #:** 09668054510
 
 Feel free to contact me to discuss anything tech-related or just to say hi!
-
-[certification_link1]: #your_certification_link1
-[certification_link2]: #your_certification_link2
-[certification_link3]: #your_certification_link3
-[certification_link4]: #your_certification_link4
-[linkedin_profile_link]: #your_linkedin_profile_link
-
-<iframe title="LecAss5.2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=6443d0d9-890f-4833-bccd-c38d72704b0a&autoAuth=true&ctid=1f982a31-2757-47db-99bd-779e54f6229f" frameborder="0" allowFullScreen="true"></iframe>
-
-
