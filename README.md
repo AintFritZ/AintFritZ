@@ -21,7 +21,7 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 
 ## Skill Sets
 - **Programming:** Java, SQL, Javascript
-- **Databases:** IBM DB2 Cloud
+- **Databases:** IBM DB2 Cloud, Supabase
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VSC
 
 ## Contact Me
