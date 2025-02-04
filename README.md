@@ -20,7 +20,7 @@ I am passionate about coding and skilled in database management. I enjoy tacklin
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ee3cf2ce6b12404da4f47831cd9496f9)
 
 ## Skill Sets
-- **Programming:** Java, SQL
+- **Programming:** Java, SQL, Javascript
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VSC
 
