@@ -3,6 +3,9 @@
 I am passionate about coding and skilled in database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program.
 
 ## Education
+- **Elementary**
+  - Esteban Abada Elementary School
+  - 2010-2016
 - **Junior High School**
   - Quezon City Academy
   - 2016-2020
